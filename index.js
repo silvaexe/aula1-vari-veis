@@ -1,4 +1,7 @@
+//isso é um comentario de uma linha
+
 //alert("Olha o JS aqui!")
+
 /*
 Esse é meu primeiro script JS
 Estou aprendendo sobre como comentar o código
